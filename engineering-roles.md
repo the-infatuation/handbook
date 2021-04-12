@@ -3,7 +3,7 @@
 Each of the roles build on top of each other. In other words, our lead engineers are expected to inhibit all the qualifications of a software engineer.
 
 
-## Software Engineer, {frontend | backend}:
+## Software Engineer, {frontend | backend | mobile}:
 - Individual technical contributor
 - Execute on scoped tasks
 - Exhibits a sense of emotional intelligence
@@ -12,7 +12,7 @@ Each of the roles build on top of each other. In other words, our lead engineers
 - Brings new ideas and suggestions to the team
 
 
-## Senior Software Engineer, {frontend | backend}:
+## Senior Software Engineer, {frontend | backend | mobile}:
 - Strong technical contributor
 - Built at least one project from scratch and deployed to production
 - Willing to mentor software engineers when needed
@@ -24,7 +24,7 @@ Each of the roles build on top of each other. In other words, our lead engineers
   - Assist in technical interviews
 
 
-## Lead Software Engineer, {frontend | backend}:
+## Lead Software Engineer, {frontend | backend | mobile}:
 - Highly technical contributor
 - Design, articulate, and own a complete subsystem
 - Experience designing and building scalable solutions with given constraints
